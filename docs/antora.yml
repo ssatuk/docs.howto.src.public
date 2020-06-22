@@ -1,5 +1,6 @@
 name: howto
-title: Quick HOWTO Guides
+title: Getting Started
 version: '0.1'
 nav:
 - modules/ROOT/nav.adoc
+- modules/sso/nav.adoc

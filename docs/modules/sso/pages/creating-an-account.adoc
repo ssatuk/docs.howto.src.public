@@ -1,0 +1,49 @@
+= How to create an account
+:experimental:
+
+== Introduction
+
+The following SSAT digital services are all connected to a single sign on (SSO) service - this means you only need to remember one username and password for all of them!
+
+* https://www.ssatuk.co.uk[The Exchange] (member area of SSAT website)
+* https://discuss.ssatuk.co.uk[Discussion forums]
+* https://lms.ssatuk.co.uk[SSAT Online CPD]
+
+Before you can log in to any of these services you need to create an account in our SSO.
+
+== Registering an Account
+
+IMPORTANT: This section describes the normal method to create a username and password.
+If you are planning to use your Google account to authenticate to our services do not follow these instructions.
+
+**Accounts are individual, and everyone at a member school can have one - please don't create shared accounts**   
+
+. Go to the https://identity.ssatuk.co.uk/UserAccount/Register[Register your Details]  page
+. Enter the username and password you would like to use and select btn:[Register]
++
+image::sso-register.png[]
+
+. Please choose an email address that is individual to you, not a role-based address like *admin@myschool.org*
++    
+[IMPORTANT]
+====
+If we have explicitly mentioned an email address that we have in our records for you when inviting you to use a service, please use that email address when registering your account, otherwise you might not be able to access services you 
+or your organisation have paid for.
+====
+
+. The next stage will take up to a minute while records are created for you.
+
+== Confirming your email
+
+. Check your inbox for the verification email from identity@ssatuk.co.uk (check your spam folder as it might be in there) and click the link - on the page it takes you to enter your password
++
+[TIP]
+====
+If the verification email hasn't arrived within 15 minutes and isn't 
+in your junk mail folder, please contact us at help@ssatuk.co.uk for assistance
+====
+. You will now be able to login to any of the services listed above
+. On your very first login you will be asked to accept the Terms and Conditions
+
+
+

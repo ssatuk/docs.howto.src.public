@@ -6,7 +6,7 @@ Whether you are interested in one of our free information services, or some of t
 
 Within this top-level section we include some HOWTO guides to get you up and running ad quickly as possible.
 
-This is version *{page-component-version}* of the HOWTO guides.
+This is version *{page-component-version}* of the HOWTO guides..
 
 == Page source
 

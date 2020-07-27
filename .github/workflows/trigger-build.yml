@@ -47,3 +47,4 @@ jobs:
       uses: distributhor/workflow-webhook@v1
       env:
         webhook_url: ${{ secrets.NETLIFY_HOOK_DOCS_PUBLIC }}?trigger_title=docs.howto.src.public
+        webhook_secret: "SSAT"

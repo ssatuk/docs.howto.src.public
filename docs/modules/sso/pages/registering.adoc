@@ -27,7 +27,7 @@ image::sso-register.png[]
 If the verification email hasn't arrived within 15 minutes and isn't 
 in your junk mail folder, please contact us at help@ssatuk.co.uk for assistance
 ====
-. You will now be able to login to any of the services listed below using the same login.
+. See the  xref:authenticate-with-username.adoc[login] page for detailed instructions for each service.
 . On your very first login you will be asked to accept the SSAT Terms and Conditions - once you have accepted those you will be directed to the service you requested.
 
 

@@ -1,45 +1,30 @@
-= How to create an account
+= Creating an account for SSAT digitial services
 :experimental:
 
 == Introduction
 
 The following SSAT digital services are all connected to a single sign on (SSO) service - this means you only need to remember one username and password for all of them!
 
-* https://www.ssatuk.co.uk[The Exchange] (member area of SSAT website)
-* https://discuss.ssatuk.co.uk[Discussion forums]
-* https://lms.ssatuk.co.uk[SSAT Online CPD]
+* https://www.ssatuk.co.uk[The Exchange^, role="ext-link"] (member area of SSAT website)
+* https://discuss.ssatuk.co.uk[Discussion forums^, role="ext-link"]
+* https://mylearning.ssat.cloud[SSAT MyLearning^, role="ext-link"]
+* https://myportfolio.ssat.cloud[SSAT MyPortfolio^, role="ext-link"]
 
 Before you can log in to any of these services you need to create an account in our SSO.
 
-== Registering an Account
+== Two approaches
 
-IMPORTANT: This section describes the normal method to create a username and password.
-If you are planning to use your Google account to authenticate to our services do not follow these instructions.
+There are two ways of logging in to these services:
 
-**Accounts are individual, and everyone at a member school can have one - please don't create shared accounts**   
+* Creating a username and password in our SSO service, or
+* Authenticating with a Google account
 
-. Go to the https://identity.ssatuk.co.uk/UserAccount/Register[Register your Details]  page
-. Enter the username and password you would like to use and select btn:[Register]
-+
-image::sso-register.png[]
+Whichever route you choose, you need to use that method from then on. 
 
-. Please choose an email address that is individual to you, not a role-based address like *admin@myschool.org*
-+
 include::partial$partial-use-correct-email.adoc[]
 
-. The next stage will take up to a minute while records are created for you.
+Choose which route you prefer:
 
-== Confirming your email
-
-. Check your inbox for the verification email from identity@ssatuk.co.uk (check your spam folder as it might be in there) and click the link - on the page it takes you to enter your password
-+
-[TIP]
-====
-If the verification email hasn't arrived within 15 minutes and isn't 
-in your junk mail folder, please contact us at help@ssatuk.co.uk for assistance
-====
-. You will now be able to login to any of the services listed above
-. On your very first login you will be asked to accept the Terms and Conditions
-
-
+* xref:registering.adoc[Registering with username and password]
+* xref:authenticating-with-google.adoc[Authenticating with Google]
 

@@ -1,0 +1,3 @@
+* When you see the SSAT SSO screen, enter your username and password, then choose the *Login* option
++
+image::ssat-sso-login-unpw.jpg[]

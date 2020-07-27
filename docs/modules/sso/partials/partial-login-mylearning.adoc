@@ -1,0 +1,6 @@
+* On the https://mylearning.ssat.cloud[SSAT MyLearning^, role="ext-link"] site click the Login link
++
+image::sssat-mylearn-login-1.jpg[]
+* click on "SSAT Single Sign On"
++
+image::ssat-mylearn.login-2.jpg[]

@@ -1,1 +1,4 @@
 * xref:creating-an-account.adoc[Creating an Account]
+** xref:registering.adoc[Registering]
+** xref:authenticate-with-username.adoc[Login]
+** xref:authenticating-with-google.adoc[One-step login with Google]

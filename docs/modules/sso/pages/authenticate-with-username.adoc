@@ -1,4 +1,4 @@
-= Authenticating with Google
+= Authenticating with Username and Password
 
 Jump to the instructions for the service you want to access:
 
@@ -12,7 +12,7 @@ Jump to the instructions for the service you want to access:
 
 include::partial$partial-login-exchange.adoc[]
 
-include::partial$partial-login-google.adoc[]
+include::partial$partial-login-up.adoc[]
 
 NOTE: It can take 10-15 seconds after your first login for your account to be granted access to any restricted areas of the site that you should have access to , please refresh your browser after that time to see them.
 
@@ -20,7 +20,7 @@ NOTE: It can take 10-15 seconds after your first login for your account to be gr
 
 include::partial$partial-login-discourse.adoc[]
 
-include::partial$partial-login-google.adoc[]
+include::partial$partial-login-up.adoc[]
 
 NOTE: It can take 10-15 seconds after your first login for your account to be granted access to any restricted discussion categories, please refresh your browser after that time to see them.
 
@@ -28,7 +28,7 @@ NOTE: It can take 10-15 seconds after your first login for your account to be gr
 
 include::partial$partial-login-mylearning.adoc[]
 
-include::partial$partial-login-google.adoc[]
+include::partial$partial-login-up.adoc[]
 
 NOTE: We normally pre-add delegates to course so on your first access you should be able to see the course you are signed up for in the Dashboard. If we haven't pre-enroled you then it can take 10-15 seconds after your first login for your account to be granted access, please refresh your browser after that time to get access.
 
@@ -36,7 +36,7 @@ NOTE: We normally pre-add delegates to course so on your first access you should
 
 include::partial$partial-login-myportfolio.adoc[]
 
-include::partial$partial-login-google.adoc[]
+include::partial$partial-login-up.adoc[]
 
 
 

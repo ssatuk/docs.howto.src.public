@@ -1,6 +1,6 @@
 name: howto
 title: Getting Started
-version: '0.1'
+version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
 - modules/sso/nav.adoc

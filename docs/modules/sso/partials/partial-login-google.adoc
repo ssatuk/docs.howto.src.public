@@ -1,0 +1,7 @@
+* When you see the SSAT SSO screen, choose the *Login with Google* option
++
+image::ssat-sso-login-google.jpg[]
+
+* If Google asks you which account you wish to use, make sure you choose the one with the correct email.
+* Login to Google if it asks you to.
+* If you are asked to consent to application access please accept all the requested scopes.

@@ -1,0 +1,3 @@
+* On the https://myportfolio.ssat.cloud[SSAT MyPortfolio^, role="ext-link"] site click the Login link
++
+image::ssat-myportfolio-login.jpg[]

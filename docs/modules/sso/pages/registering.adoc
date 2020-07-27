@@ -1,0 +1,34 @@
+= Registering
+:experimental:
+
+== Registering an Account
+
+IMPORTANT: This section describes the normal method to create a username and password.
+If you are planning to use your Google account to authenticate to our services do not follow these instructions.
+
+include::partial$partial-use-correct-email.adoc[]
+
+
+. Go to the https://identity.ssatuk.co.uk/UserAccount/Register[Register your Details]  page
+. Enter the username and password you would like to use and select btn:[Register]
++
+image::sso-register.png[]
+
+. Please enter username, password and email address
+. The next stage will take up to a minute while records are created for you.
+
+== Confirming your email
+
+. Please check your inbox for the verification email from identity@ssatuk.co.uk (check your spam folder as it might be in there) and click the link - on the page it takes you to enter your password to verify your email address. Please note your login will not work until your email address has veen verified.
+
++
+[TIP]
+====
+If the verification email hasn't arrived within 15 minutes and isn't 
+in your junk mail folder, please contact us at help@ssatuk.co.uk for assistance
+====
+. You will now be able to login to any of the services listed below using the same login.
+. On your very first login you will be asked to accept the SSAT Terms and Conditions - once you have accepted those you will be directed to the service you requested.
+
+
+

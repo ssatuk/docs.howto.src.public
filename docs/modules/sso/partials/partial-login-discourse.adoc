@@ -1,0 +1,3 @@
+* In the https://discuss.ssatuk.co.uk[Discussion Forum^, role="ext-link"] click the Login button
++
+image::ssat-discourse-login.jpg[]

@@ -1,0 +1,4 @@
+* Go to https://www.ssatuk.co.uk[The Exchange^, role="ext-link"]
+* Select "Member Login", then "Login with SSAT Id"
++
+image::sso-register.png[]

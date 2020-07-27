@@ -1,4 +1,4 @@
-= Creating an account for SSAT digitial services
+= Creating an account for SSAT digital services
 :experimental:
 
 == Introduction

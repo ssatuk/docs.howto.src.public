@@ -4,3 +4,5 @@ version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
 - modules/sso/nav.adoc
+- modules/ROOT/nav-ext.adoc
+

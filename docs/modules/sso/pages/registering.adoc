@@ -4,17 +4,18 @@
 == Registering an Account
 
 IMPORTANT: This section describes the normal method to create a username and password.
-If you are planning to use your Google account to authenticate to our services do not follow these instructions.
+If you are planning to use your Google account to authenticate to our services do not follow these instructions, instead see xref:authenticating-with-google.adoc[this page].
 
 include::partial$partial-use-correct-email.adoc[]
 
 
 . Go to the https://identity.ssatuk.co.uk/UserAccount/Register[Register your Details]  page
-. Enter the username and password you would like to use and select btn:[Register]
+. Enter the username and password you would like to use plus your email (as per the guidance above)  and select btn:[Register]
++
+NOTE: your username cannot contain spaces
 +
 image::sso-register.png[]
 
-. Please enter username, password and email address
 . The next stage will take up to a minute while records are created for you.
 
 == Confirming your email

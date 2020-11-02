@@ -10,9 +10,9 @@ include::partial$partial-use-correct-email.adoc[]
 
 
 . Go to the https://identity.ssatuk.co.uk/UserAccount/Register[Register your Details]  page
-. Enter the username and password you would like to use plus your email (as per the guidance above)  and select btn:[Register]
+. Enter the username and password you would like to use plus your email (as per the guidance above)  and select btn:[Register]. 
 +
-NOTE: your username cannot contain spaces
+NOTE: Your username cannot contain spaces or the `@` symbol. It is unique to SSAT systems and is not linked to your school systems in any way.
 +
 image::sso-register.png[]
 

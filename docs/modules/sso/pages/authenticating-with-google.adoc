@@ -1,5 +1,7 @@
 = Authenticating with Google
 
+TIP: If you set up an SSAT login account with username and password, go to xref:authenticating-with-username.adoc[Login] instructions
+
 Jump to the instructions for the service you want to access:
 
 * xref:#_the_exchange[The Exchange]

@@ -1,5 +1,7 @@
 = Authenticating with Username and Password
 
+TIP: If you are using Google login, go to xref:authenticating-with-google.adoc[One-step login with Google]
+
 Jump to the instructions for the service you want to access:
 
 * xref:#_the_exchange[The Exchange]

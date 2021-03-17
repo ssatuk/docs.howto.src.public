@@ -1,0 +1,6 @@
+[TIP]
+====
+If you have forgotten your username you can https://identity.ssatuk.co.uk/UserAccount/SendUsernameReminder[get a reminder^, role="ext-link"].
+If you have forgotten your password, you can https://identity.ssatuk.co.uk/UserAccount/PasswordReset[reset it^, role="ext-link"].
+
+====

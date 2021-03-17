@@ -9,6 +9,8 @@ Jump to the instructions for the service you want to access:
 * xref:#_ssat_mylearning[SSAT MyLearning]
 * xref:#_ssat_myportfolio[SSAT MyPortfolio]
 
+include::partial$partial-forgotten-details.adoc[]
+
 
 == The Exchange
 

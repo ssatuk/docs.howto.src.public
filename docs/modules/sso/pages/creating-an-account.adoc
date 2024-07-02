@@ -5,10 +5,10 @@
 
 The following SSAT digital services are all connected to a single sign on (SSO) service - this means you only need to remember one username and password for all of them!
 
-* https://www.ssatuk.co.uk[The Exchange^, role="ext-link"] (member area of SSAT website)
-* https://discuss.ssatuk.co.uk[Discussion forums^, role="ext-link"]
+* https://www.ssatuk.co.uk[The Library^, role="ext-link"] (member area of SSAT website)
+//* https://discuss.ssatuk.co.uk[Discussion forums^, role="ext-link"]
 * https://mylearning.ssat.cloud[SSAT MyLearning^, role="ext-link"]
-* https://myportfolio.ssat.cloud[SSAT MyPortfolio^, role="ext-link"]
+//* https://myportfolio.ssat.cloud[SSAT MyPortfolio^, role="ext-link"]
 
 Before you can log in to any of these services you need to create an account in our SSO.
 

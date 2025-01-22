@@ -1,3 +1,6 @@
 //* xref:elearn:ROOT:index.adoc[e-Learning platforms]
 //** xref:elearn:mahara:index.adoc[e-Portfolio]
 * xref:lpa24public:ROOT:index.adoc[Lead Practitioner Accreditation]
+** xref:lpa24public:ROOT:accessing-lpa-system.adoc[Accessing the system]
+** xref:lpa24public:ROOT:applicant-home-folder.adoc[Applicant home folder]
+** xref:lpa24public:ROOT:submit-your-evidence.adoc[Submitting your evidence]

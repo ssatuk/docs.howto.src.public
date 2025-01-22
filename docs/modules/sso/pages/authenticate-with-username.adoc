@@ -1,5 +1,7 @@
 = Authenticating with Username and Password
 
+IMPORTANT: If you are looking for guidance about the xref:lpa24public:ROOT:index.adoc[Lead Practitioner Accreditation system (January 2025 onwards)] please navigate to the xref:lpa24public:ROOT:index.adoc[documentation for that system].
+
 TIP: If you are using Google login, go to xref:authenticating-with-google.adoc[One-step login with Google]
 
 Jump to the instructions for the service you want to access:

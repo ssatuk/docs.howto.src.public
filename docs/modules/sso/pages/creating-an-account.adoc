@@ -12,6 +12,8 @@ The following SSAT digital services are all connected to a single sign on (SSO) 
 
 Before you can log in to any of these services you need to create an account in our SSO.
 
+IMPORTANT: If you are looking for guidance about the xref:lpa24public:ROOT:index.adoc[Lead Practitioner Accreditation system (January 2025 onwards)] please navigate to the xref:lpa24public:ROOT:index.adoc[documentation for that system].
+
 == Two approaches
 
 There are two ways of logging in to these services:

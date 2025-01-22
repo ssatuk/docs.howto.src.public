@@ -1,6 +1,8 @@
 = Authenticating with Google
 
-TIP: If you set up an SSAT login account with username and password, go to xref:authenticating-with-username.adoc[Login] instructions
+IMPORTANT: If you are looking for guidance about the xref:lpa24public:ROOT:index.adoc[Lead Practitioner Accreditation system (January 2025 onwards)] please navigate to the xref:lpa24public:ROOT:index.adoc[documentation for that system].
+
+TIP: If you set up an SSAT login account with username and password, go to xref:authenticate-with-username.adoc[Login] instructions
 
 Jump to the instructions for the service you want to access:
 
@@ -8,6 +10,8 @@ Jump to the instructions for the service you want to access:
 //* xref:#_discussion_forums[Discussion Forums]
 * xref:#_ssat_mylearning[SSAT MyLearning]
 //* xref:#_ssat_myportfolio[SSAT MyPortfolio]
+
+
 
 
 == The Library

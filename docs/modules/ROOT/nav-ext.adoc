@@ -3,4 +3,4 @@
 * xref:lpa24public:ROOT:index.adoc[Lead Practitioner Accreditation]
 ** xref:lpa24public:ROOT:accessing-lpa-system.adoc[Accessing the system]
 ** xref:lpa24public:ROOT:applicant-home-folder.adoc[Applicant home folder]
-** xref:lpa24public:ROOT:submit-your-evidence.adoc[Submitting your evidence]
+** xref:lpa24public:ROOT:submit-your-portfolio.adoc[Submitting your portfolio]
